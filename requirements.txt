@@ -8,3 +8,4 @@ seaborn==0.12.2
 geopandas==0.14.0
 json5==0.9.14
 DateTime==5.1
+openpyxl==3.1.2
