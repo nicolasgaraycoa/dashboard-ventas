@@ -5,3 +5,6 @@ plotly==5.15.0
 pandas==2.0.2
 geojson==3.0.1
 seaborn==0.12.2
+geopandas==0.14.0
+json5==0.9.14
+DateTime==5.1
