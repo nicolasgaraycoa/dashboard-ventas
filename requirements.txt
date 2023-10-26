@@ -4,3 +4,4 @@ scipy==1.11.1
 plotly==5.15.0
 pandas==2.0.2
 geojson==3.0.1
+seaborn==0.12.2
